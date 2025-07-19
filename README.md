@@ -18,9 +18,11 @@ Bem-vindo(a) ao meu portfólio! Este repositório apresenta projetos, habilidade
 [![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=30A3DC)]()
 
 ## Contato
-Email: nubia.mary.82@gmail.com <br>
+Email: nubia.mary.82@gmail.com 
+
 Linkedin: https://www.linkedin.com/in/n%C3%BAbia-almeida-b9b51a184/
  
-<img src="./assets/images/image.png" width="24"/> ** Em Desenvolvimento
-Esse portifólio está em constante contrução e evolução, para demonstrar o aprimoramento do aprendizado.
+<img src="./assets/images/image.png" width="24"/ > ** Em Desenvolvimento ** 
+
+Esse portfólio está em constante construção e evolução, para demonstrar o aprimoramento do aprendizado.
 
