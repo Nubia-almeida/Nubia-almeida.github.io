@@ -37,6 +37,10 @@ html[data-theme='light'] .technologies__logo {
   filter: invert(80%);
 }
 
+html[data-theme='light']  .programador__marketplace {
+  filter: grayscale(100%) invert(100%);
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -119,6 +123,7 @@ p, span, li {
 
 p {
   text-align: justify;
+ 
 }
 
 .header {
@@ -129,6 +134,7 @@ p {
   width: 100%;
   padding: 0.5rem 1rem;
   z-index: 2;
+  background-color: var(--secondary-bg-color);
 }
 
 .header__toggle {
@@ -243,8 +249,8 @@ p {
   border: 1px solid var(--primary-color);
 }
 
-main, .projects, .about, .contact {
-  padding: 2.5rem 1rem;
+.projects, .about, .contact {
+  padding: 1rem 1rem 2.5rem 1rem;
 }
 
 main {
@@ -257,11 +263,25 @@ main {
   display: flex;
   flex-direction: column;
   gap: 1.5rem;
+  padding: 1rem;
+  position: absolute;
 }
 
-.main__content2 iframe {
-  width: 100%;
+.main__content1 p {
+  color: var(--primary-color)
+}
+
+.main__content1 ul {
+  background-color: rgba(0, 0, 0, 0.1)
+}
+
+.main__content2 img {
+  width: 100vw;
+  height: auto;
   aspect-ratio: 16/9;
+  filter: grayscale(100%);
+  position: relative;
+  z-index: -1;
 }
 
 .technologies {
@@ -302,6 +322,7 @@ main {
 
 .technologies__logo {
   height: 2.4rem;
+  opacity: 0.5;
 }
 
 .projects {
@@ -549,7 +570,11 @@ footer p {
     font-size: 3rem;
   }
 
-  main, .projects, .about {
+  /*vendo se funcina*/
+  main {
+    padding: 4rem 0;
+  }
+   .projects, .about {/*tirei o main*/
     padding: 8rem 6rem 4rem 6rem;
   }
 
@@ -565,7 +590,11 @@ footer p {
     flex-direction: column;
     align-items: flex-start;
   }
-
+/*inclui p ver se funciona*/
+.main__content2 img {
+  height: 100%;
+  max-height: 450px;
+}
   .technologies {
     padding: 6.25rem 6rem 2rem 6rem;
     margin-top: -6rem;
@@ -622,17 +651,22 @@ footer p {
   }
 
   main {
-    padding: 12rem 6rem 2rem;
+    padding: 4rem 0;
   }
 
   .main__content1 .btn {
     width: auto;
   }
 
+  .main__content2 img {
+    max-height: 34.4rem;
+    height: 100%;
+  }
+
   .technologies {
     flex-direction: row;
     justify-content: space-between;
-    padding: 10rem 6rem 4rem;
+    padding: 6rem 6rem 4rem;
   }
 
   .technologies h2 {
@@ -681,11 +715,16 @@ footer p {
   }
 
   main {
-    padding: 12rem 15rem 2rem;
+    padding: 4rem 0;
   }
   
+  .main__content2 img {
+    max-height: 41.9rem;
+    height: 100%;
+  }
+
   .technologies, .projects, .about {
-    padding: 10rem 15rem 4rem;
+    padding: 6rem 15rem 4rem;
   }
 
 }

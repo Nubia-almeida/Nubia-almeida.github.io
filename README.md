@@ -4,13 +4,13 @@
     <span>Construindo seu Portfólio Front-end do Zero</span>
 </h1>
 
-Repositório desenvolvido para fins didáticos, com a disponibilização de materiais de apoio para o lab **Construindo seu Portfólio Front-end do Zero** da [Digital Innovation One](https://www.dio.me/).
+Repositório desenvolvido durante a aula **Construindo seu Portfólio Front-end do Zero** da [Digital Innovation One](https://www.dio.me/) durante o Bootcamp Santander.
 
 [![Link do Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/construindo-seu-portfolio-front-end-do-zero/learning/81cbe4c1-6e9e-4ce3-be7d-412aef4efb24) 
 [![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/construindo-seu-portfolio-front-end-do-zero/learning/81cbe4c1-6e9e-4ce3-be7d-412aef4efb24)
 
 ## Objetivo
-Construir seu Primeiro Portfólio Front-end do Zero.
+Bem-vindo(a) ao meu portfólio! Este repositório apresenta projetos, habilidades e experiências que representam minha trajetória como desenvolvedora e entusiasta de tecnologia.
 
 ## Tecnologias
 [![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)]()
@@ -18,8 +18,14 @@ Construir seu Primeiro Portfólio Front-end do Zero.
 [![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=30A3DC)]()
 [![Figma](https://img.shields.io/badge/Protótipo%20no%20Figma-000?style=for-the-badge&logo=figma&logoColor=E94D5F)](https://www.figma.com/file/NkndT2SbyHJZWLEsaM8Xn3/DIO-Lab-Portf%C3%B3lio)
 
-## Desafio: Portfólio Front-end
-Crie seu próprio portfólio front-end, atentando-se para que seja autêntico, visualmente atraente e responsivo. Sinta-se livre para utilizar as tecnologias que desejar e expressar sua personalidade e estilo através do design e dos elementos interativos do seu portfólio. Após concluir, você pode hospedá-lo em uma plataforma de sua escolha, como GitHub Pages, Netlify, Vercel, etc.
+## Sobre
+Este portfólio foi desenvolvido com o objetivo de reunir meus projetos e apresentar um pouco sobre mim de forma clara, moderna e responsiva. 
 
-##
-<div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+## Contato
+Email: nubia.mary.82@gmail.com
+Linkedin: https://www.linkedin.com/in/n%C3%BAbia-almeida-b9b51a184/
+
+## 
+<img src="./assets/images/image.png" width="24"/>Em Desenvolvimento
+Esse portifólio esta´em constante contrução e evolução, para demonstrar o aprimoramento do aprendizado.
+
