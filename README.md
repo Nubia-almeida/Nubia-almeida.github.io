@@ -22,7 +22,7 @@ Email: nubia.mary.82@gmail.com
 
 Linkedin: https://www.linkedin.com/in/n%C3%BAbia-almeida-b9b51a184/
  
-<img src="./assets/images/image.png" width="24"/> **Em Desenvolvimento**
+<img src="./assets/images/image.png" width="24"/> ###Em Desenvolvimento###
 
 Esse portfólio está em constante construção e evolução, para demonstrar o aprimoramento do aprendizado.
 
